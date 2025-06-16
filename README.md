@@ -15,8 +15,6 @@ Create a responsive landing page with a fixed, interactive navigation bar using 
 - CSS3 (with transitions & gradients)
 - JavaScript (scroll event handling)
 
-## 🎥 Demo:
-C:\Users\anyone\Videos\Screen Recordings\Screen Recording 2025-06-16 125611.mp4
 
 ## 📸 Screenshot:
 ![Screenshot 2025-06-16 125428](https://github.com/user-attachments/assets/bb41b8d1-4da8-447e-86c8-a8bde5e937d7)
